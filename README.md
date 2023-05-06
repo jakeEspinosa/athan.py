@@ -23,7 +23,3 @@
  - <b>React.js (optional front-end)</b>: user interface to generate API call string
  - <b>Al Adan Prayer Times API (third-party backend)</b>: fetch and update prayer times
  - <b>GitHub Pages</b>: static web host
-
-<h3>Python Component</h3>
-
-<h3>React Component</h3>
