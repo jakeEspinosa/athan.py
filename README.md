@@ -12,7 +12,7 @@
 <b>2.)</b> The script calls the Al Adan API, gets the current prayer times for the day, and logs that it did so.<br />
 <b>3.)</b> The script then sets a refresh time for a little under 24 hours after Fajr (the morning prayer).<br />
 <b>4.)</b> The script compares the prayer times to the current time. If the prayer time and current time match, it plays the athan and logs that it played it.<br />
-<b>5.)</b> Once the refresh time comes, the script refreshes the prayer times.
+<b>5.)</b> Once the refresh time comes, the script refreshes the prayer times.<br />
 <b>6.)</b> The script then repeats steps 5 and 6.
 
 <h2>How to Use</h2>
