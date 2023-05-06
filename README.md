@@ -25,3 +25,7 @@
  - <b>GitHub Pages</b>: static web host
 
 <h2>Dependencies</h2>
+
+- requests
+- playsound
+- iso8601
