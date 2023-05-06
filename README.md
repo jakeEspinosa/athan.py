@@ -19,7 +19,7 @@
 
 <h2>Languages/Technologies Used</h2>
 
- - <b>Python (script)</b>: fetch prayer times and play athan at prayer times
+ - <b>Python (script)</b>: fetch and play athan at prayer times
  - <b>React.js (optional front-end)</b>: user interface to generate API call string
  - <b>Al Adan Prayer Times API (third-party backend)</b>: fetch and update prayer times
  - <b>GitHub Pages</b>: static web host
