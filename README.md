@@ -29,3 +29,4 @@
 - requests
 - playsound
 - iso8601
+- pydub (if using stayAlive script)
